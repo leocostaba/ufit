@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.25635313.css",
-  "main.css.map": "static/css/main.25635313.css.map",
-  "main.js": "static/js/main.eb918b2a.js",
-  "main.js.map": "static/js/main.eb918b2a.js.map",
+  "main.css": "static/css/main.6a2dbbcd.css",
+  "main.css.map": "static/css/main.6a2dbbcd.css.map",
+  "main.js": "static/js/main.256ad5ce.js",
+  "main.js.map": "static/js/main.256ad5ce.js.map",
   "static\\media\\1.jpg": "static/media/1.3d8f3ceb.jpg",
   "static\\media\\2.jpg": "static/media/2.32b16fbb.jpg",
   "static\\media\\apple-store.svg": "static/media/apple-store.b9042983.svg",
@@ -13,5 +13,9 @@
   "static\\media\\logo.svg": "static/media/logo.e107ac3e.svg",
   "static\\media\\logobranca.svg": "static/media/logobranca.d65f9f4d.svg",
   "static\\media\\play-store.svg": "static/media/play-store.067f4656.svg",
+  "static\\media\\slick.eot": "static/media/slick.ced611da.eot",
+  "static\\media\\slick.svg": "static/media/slick.f97e3bbf.svg",
+  "static\\media\\slick.ttf": "static/media/slick.d41f55a7.ttf",
+  "static\\media\\slick.woff": "static/media/slick.b7c9e1e4.woff",
   "static\\media\\web-app.svg": "static/media/web-app.5e1aee5f.svg"
 }
