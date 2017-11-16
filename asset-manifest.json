@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.385341a3.css",
-  "main.css.map": "static/css/main.385341a3.css.map",
-  "main.js": "static/js/main.24e54a3b.js",
-  "main.js.map": "static/js/main.24e54a3b.js.map",
+  "main.css": "static/css/main.60ca7037.css",
+  "main.css.map": "static/css/main.60ca7037.css.map",
+  "main.js": "static/js/main.3979e13e.js",
+  "main.js.map": "static/js/main.3979e13e.js.map",
   "static/media/1.jpg": "static/media/1.3d8f3ceb.jpg",
   "static/media/2.jpg": "static/media/2.32b16fbb.jpg",
   "static/media/apple-store.svg": "static/media/apple-store.699459d2.svg",
@@ -16,6 +16,7 @@
   "static/media/logo.svg": "static/media/logo.e269a3e7.svg",
   "static/media/logobranca.svg": "static/media/logobranca.9c7e8f9c.svg",
   "static/media/mail.svg": "static/media/mail.395141f4.svg",
+  "static/media/meu.svg": "static/media/meu.158bca4c.svg",
   "static/media/motivation.svg": "static/media/motivation.816b71cd.svg",
   "static/media/play-store.svg": "static/media/play-store.b9597078.svg",
   "static/media/share.svg": "static/media/share.7153f777.svg",
@@ -24,6 +25,8 @@
   "static/media/slick.svg": "static/media/slick.f97e3bbf.svg",
   "static/media/slick.ttf": "static/media/slick.d41f55a7.ttf",
   "static/media/slick.woff": "static/media/slick.b7c9e1e4.woff",
+  "static/media/stakeholders-bg.jpeg": "static/media/stakeholders-bg.46e5fded.jpeg",
   "static/media/travel.svg": "static/media/travel.43a2e722.svg",
+  "static/media/waitlist-bg.jpeg": "static/media/waitlist-bg.193afe58.jpeg",
   "static/media/web-app.svg": "static/media/web-app.ac25c946.svg"
 }
