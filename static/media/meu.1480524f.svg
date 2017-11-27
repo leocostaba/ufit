@@ -1,0 +1,354 @@
+<svg version="1.1" id="Byztgxd0b" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="-185 247 350 300" enable-background="new -185 247 350 300" xml:space="preserve">
+	<style>
+		#BkbMtxedR- {
+			transform: matrix(0.9914, -0.1309, 0.1309, 0.9914, -51.4566, 3.4661);
+			fill: #647386;
+		}
+
+		#H1zfYgg_0Z {
+			transform: matrix(0.9979, 6.505603e-002, -6.505603e-002, 0.9979, 26.3019, 0.8265);
+			fill: #C7CAD0;
+		}
+
+		#HyVfYeedRb {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -47.0862, 1.2891);
+			fill: #FFFFFF;
+		}
+
+		#HkPMFelORZ {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -37.9701, -8.4489);
+			fill: none;
+			stroke: #333333;
+			stroke-width: 8;
+		}
+
+		#rydGtxgOR- {
+			fill: none;
+			stroke: #4ABC91;
+			stroke-width: 12;
+		}
+
+		#By5GKgeuRZ {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -34.895, 1.9442);
+			fill: #989898;
+		}
+
+		#H1sGFxluCW {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -36.1398, 2.1598);
+			fill: #989898;
+		}
+
+		#ByhMFxg_0Z {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -37.9317, -0.9565);
+			fill: #989898;
+		}
+
+		#SyRfYlgOCW {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -43.1144, -7.5503);
+			fill: none;
+			stroke: #333333;
+			stroke-width: 8;
+		}
+
+		#rJ1lztgeOAZ {
+			fill: none;
+			stroke: #4ABC91;
+			stroke-width: 12;
+		}
+
+		#H1ZgGYxguA- {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -40.0362, 2.8535);
+			fill: #989898;
+		}
+
+		#ByzgGYel_CW {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -41.281, 3.0691);
+			fill: #989898;
+		}
+
+		#BJ7ezKxlu0- {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -43.076, -5.778591e-002);
+			fill: #989898;
+		}
+
+		#SyHlGFggOCW {
+			transform: matrix(0.9933, -0.1157, 0.1157, 0.9933, -48.2962, -6.6498);
+			fill: none;
+			stroke: #333333;
+			stroke-width: 8;
+		}
+
+		#BkUlMFxxuRZ {
+			fill: none;
+			stroke: #4ABC91;
+			stroke-width: 12;
+		}
+
+		#r1OlfYeguRW {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -45.1689, 3.7502);
+			fill: #989898;
+		}
+
+		#B1tlftlg_AW {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -46.4138, 3.9658);
+			fill: #989898;
+		}
+
+		#Bk9gMtgldAZ {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -48.207, 0.8502);
+			fill: #989898;
+		}
+
+		#ByngzKee_CZ {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -53.3983, -5.7403);
+			fill: none;
+			stroke: #333333;
+			stroke-width: 8;
+		}
+
+		#B1agMKexOCb {
+			fill: none;
+			stroke: #4ABC91;
+			stroke-width: 12;
+		}
+
+		#Skk-ztleORZ {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -50.313, 4.649);
+			fill: #989898;
+		}
+
+		#Syg-GKxe_RZ {
+			transform: matrix(0.9933, -0.1157, 0.1157, 0.9933, -51.596, 4.8759);
+			fill: #989898;
+		}
+
+		#rJbbMKlxuCb {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -53.3479, 1.7597);
+			fill: #989898;
+		}
+
+		#Bk4WMtgeOCZ {
+			transform: matrix(0.9933, -0.1157, 0.1157, 0.9933, -58.5898, -4.838);
+			fill: none;
+			stroke: #333333;
+			stroke-width: 8;
+		}
+
+		#Byr-GFxe_RW {
+			fill: none;
+			stroke: #4ABC91;
+			stroke-width: 12;
+		}
+
+		#BkDWMKgguAZ {
+			transform: matrix(0.9933, -0.1157, 0.1157, 0.9933, -55.4872, 5.5585);
+			fill: #989898;
+		}
+
+		#ryuWzYgedRb {
+			transform: matrix(0.9933, -0.1156, 0.1156, 0.9933, -56.6993, 5.776);
+			fill: #989898;
+		}
+
+		#BJt-zFexOC- {
+			transform: matrix(0.9933, -0.1157, 0.1157, 0.9933, -58.5371, 2.6689);
+			fill: #989898;
+		}
+
+		@keyframes BkbMtxedR-Animation {
+			0% {
+				transform: rotate(3deg);
+			}
+			16.67% {
+				transform: rotate(0deg);
+			}
+		}
+
+		#BkbMtxedR- {
+			transform-origin: 50% 50% !important;
+			animation: BkbMtxedR-Animation 10s infinite;
+			
+		}
+
+		@keyframes H1zfYgg_0ZAnimation {
+			0% {
+				transform: scale(1, 1);
+			}
+			16.67% {
+				transform: scale(1.1, 1.1);
+			}
+		}
+
+		#H1zfYgg_0Z {
+			transform-origin: 50% 50% !important;
+			animation: H1zfYgg_0ZAnimation 10s infinite;
+			
+		}
+
+		@keyframes rkIMtlldAWAnimation {
+			0% {
+				opacity: 0;
+				transform: translate(110px, 0px);
+			}
+			3.33% {
+				opacity: 1;
+				transform: translate(0px, 0px);
+			}
+		}
+
+		#rkIMtlldAW {
+			transform-origin: 50% 50% !important;
+			animation: rkIMtlldAWAnimation 10s infinite;
+			
+		}
+
+		@keyframes rypMFgluRZAnimation {
+			3.33% {
+				opacity: 0;
+			}
+			6.67% {
+				opacity: 1;
+			}
+		}
+
+		#rypMFgluRZ {
+			transform-origin: 50% 50% !important;
+			animation: rypMFgluRZAnimation 10s infinite;
+			
+		}
+
+		@keyframes H1NgztxxdC-Animation {
+			6.67% {
+				opacity: 0;
+				transform: translate(110px, 0px);
+			}
+			10% {
+				opacity: 1;
+				transform: translate(0px, 0px);
+			}
+		}
+
+		#H1NgztxxdC- {
+			transform-origin: 50% 50% !important;
+			animation: H1NgztxxdC-Animation 10s infinite;
+			
+		}
+
+		@keyframes HyjeGtgguCZAnimation {
+			10% {
+				opacity: 0;
+			}
+			13.33% {
+				opacity: 1;
+			}
+		}
+
+		#HyjeGtgguCZ {
+			transform-origin: 50% 50% !important;
+			animation: HyjeGtgguCZAnimation 10s infinite;
+			
+		}
+
+		@keyframes r1GbzYeluRWAnimation {
+			13.33% {
+				opacity: 0;
+				transform: translate(110px, 0px);
+			}
+			16.67% {
+				opacity: 1;
+				transform: translate(0px, 0px);
+			}
+		}
+
+		#r1GbzYeluRW {
+			transform-origin: 50% 50% !important;
+			animation: r1GbzYeluRWAnimation 10s infinite;
+			
+		}
+	</style>
+	<g id="rJgMKledRZ">
+
+		<rect id="BkbMtxedR-" x="-104.4" y="262.9" width="210" height="260.4" />
+
+		<rect id="H1zfYgg_0Z" x="-104.5" y="274.1" width="210" height="260.4" />
+		<g id="BJQMYleu0-">
+
+			<rect id="HyVfYeedRb" x="-117.4" y="276.4" width="210" height="260.4" />
+			<g id="HJSGFxeOR-">
+				<g id="rkIMtlldAW">
+
+					<rect x="-109.3" y="305.6" stroke-miterlimit="10" width="35" height="35" id="HkPMFelORZ" />
+					<polyline stroke-miterlimit="10" points="-102.6,320.9 -95.3,330.6 
+					-80.4,314.7 				" id="rydGtxgOR-" />
+					<g>
+
+						<rect x="-62.1" y="300" width="122.8" height="3.7" id="By5GKgeuRZ" />
+
+						<rect x="-60.8" y="310.8" width="122.8" height="3.7" id="H1sGFxluCW" />
+
+						<rect x="-59.4" y="324.7" width="64.3" height="3.7" id="ByhMFxg_0Z" />
+					</g>
+				</g>
+				<g id="rypMFgluRZ">
+
+					<rect x="-104.2" y="350.4" stroke-miterlimit="10" width="35" height="35" id="SyRfYlgOCW" />
+					<polyline stroke-miterlimit="10" points="-97.3,365.7 -90.1,375.5 -75.2,359.4 
+									" id="rJ1lztgeOAZ" />
+					<g>
+
+						<rect x="-56.8" y="344.8" width="122.8" height="3.7" id="H1ZgGYxguA-" />
+
+						<rect x="-55.6" y="355.6" width="122.8" height="3.7" id="ByzgGYel_CW" />
+
+						<rect x="-54.2" y="369.5" width="64.3" height="3.7" id="BJ7ezKxlu0-" />
+					</g>
+				</g>
+				<g id="H1NgztxxdC-">
+
+					<rect x="-98.9" y="395.2" stroke-miterlimit="10" width="35" height="35" id="SyHlGFggOCW" />
+					<polyline stroke-miterlimit="10" points="-92.1,410.4 -84.9,420.2 -70,404.3 
+									" id="BkUlMFxxuRZ" />
+					<g>
+
+						<rect x="-51.7" y="389.5" width="122.8" height="3.7" id="r1OlfYeguRW" />
+
+						<rect x="-50.4" y="400.3" width="122.8" height="3.7" id="B1tlftlg_AW" />
+
+						<rect x="-48.9" y="414.2" width="64.3" height="3.7" id="Bk9gMtgldAZ" />
+					</g>
+				</g>
+				<g id="HyjeGtgguCZ">
+
+					<rect x="-93.7" y="440" stroke-miterlimit="10" width="35" height="35" id="ByngzKee_CZ" />
+					<polyline stroke-miterlimit="10" points="-86.9,455.2 -79.7,465 -64.7,449 				
+					" id="B1agMKexOCb" />
+					<g>
+
+						<rect x="-46.5" y="434.3" width="122.8" height="3.7" id="Skk-ztleORZ" />
+
+						<rect x="-45.2" y="445" width="122.8" height="3.7" id="Syg-GKxe_RZ" />
+
+						<rect x="-43.7" y="459" width="64.3" height="3.7" id="rJbbMKlxuCb" />
+					</g>
+				</g>
+				<g id="r1GbzYeluRW">
+					<g>
+
+						<rect x="-88.5" y="484.8" stroke-miterlimit="10" width="35" height="35" id="Bk4WMtgeOCZ" />
+					</g>
+					<polyline stroke-miterlimit="10" points="-81.8,499.9 -74.4,509.7 -59.5,493.8 
+									" id="Byr-GFxe_RW" />
+					<g>
+
+						<rect x="-41.3" y="478.9" width="122.8" height="3.7" id="BkDWMKgguAZ" />
+
+						<rect x="-40" y="489.9" width="122.8" height="3.7" id="ryuWzYgedRb" />
+
+						<rect x="-38.4" y="503.7" width="64.3" height="3.7" id="BJt-zFexOC-" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

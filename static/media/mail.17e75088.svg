@@ -1,0 +1,47 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-155 247 300 300" style="enable-background:new -155 247 300 300;" xml:space="preserve">
+<g>
+	<g id="phone">
+		<g>
+			<path fill="#171717" d="M77.7,518.2c0,12.5-8.8,22.7-19.6,22.7H-58.5c-10.8,0-19.6-10.2-19.6-22.7V278.7c0-12.5,8.8-22.7,19.6-22.7
+				H58.1c10.8,0,19.6,10.2,19.6,22.7L77.7,518.2L77.7,518.2z"/>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-248.4143" y1="522.2942" x2="-198.0865" y2="416.8899" gradientTransform="matrix(1.2898 0 0 -1.2898 344.312 923.3458)">
+				<stop  offset="0" style="stop-color:#535454"/>
+				<stop  offset="1" style="stop-color:#171717"/>
+			</linearGradient>
+			<path fill="url(#SVGID_1_)" d="M58.1,256H-11l9.2,29.4h66.7v112l12.9,41.4v-160C77.7,266.3,68.8,256,58.1,256z"/>
+			<rect x="-65.2" y="285.4" fill="#ffffff" width="130" height="226.1"/>
+		</g>
+		<g>
+			<path fill="#010101" d="M19.9,271.6h-36.2c-2.2,0-4-2.1-4-4.5c0-2.5,1.8-4.5,4-4.5h36.2c2.2,0,4,2.1,4,4.5
+				C24,269.5,22.1,271.6,19.9,271.6z M-16.3,264.5c-1.2,0-2.1,1.2-2.1,2.6c0,1.4,0.9,2.6,2.1,2.6h36.2c1.2,0,2.1-1.2,2.1-2.6
+				c0-1.4-0.9-2.6-2.1-2.6H-16.3z"/>
+		</g>
+	</g>
+	<g id="Email_1_" transform="translate(80)">
+		<animateTransform
+			attributeName="transform"
+			type="scale"
+			from="0"
+			to="1"
+			dur="2s"
+			repeatCount="indefinite"
+			begin="mail.mouseover"
+		/>
+		<g id="Carta">
+			<polygon fill="#81D2E4" points="48.9,373.3 -45.2,373.3 1.9,409 			"/>
+			<polygon fill="#57C3B5" points="48.9,373.3 -45.2,373.3 1.9,337.7 			"/>
+			<g>
+				<rect x="-31" y="379.5" fill="#FFE7B8" width="65.8" height="67.6"/>
+				<rect x="-24.1" y="387.7" fill="#57C3B5" width="51.1" height="3"/>
+				<rect x="-24.1" y="394.3" fill="#57C3B5" width="51.1" height="3"/>
+				<rect x="-24.1" y="401" fill="#57C3B5" width="51.1" height="3"/>
+				<rect x="-24.1" y="407.7" fill="#57C3B5" width="51.1" height="3"/>
+				<rect x="-24.1" y="414.4" fill="#57C3B5" width="51.1" height="3"/>
+			</g>
+			<polygon fill="#26B99A" points="1.9,409 -45.2,373.3 -45.2,446.2 48.9,446.2 48.9,373.3 			"/>
+		</g>
+	</g>
+</g>
+</svg>
